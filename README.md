@@ -12,7 +12,7 @@ ENG
 The types of errors recorded as error_log.txt are as follows.
 * Num of files Error : _me.csv != 11 or, _radar.csv != 19 -> ERROR !
 * Time Stamp Error : Check time stamp for each file if float value is different -> ERROR!
-* Row Nan value Error: If row does not have a value (if Nan) -> Error!
+* Row Nan value Error: If row does not have a value (if Nan) -> ERROR !
 
 # << DATA >>
 
@@ -32,7 +32,7 @@ KOR
 * error_log.txt 로 기록되는 에러의 종류는 다음과 같습니다.
 * Num of files Error : _me.csv != 11 개 or _radar.csv != 19 개  -> ERROR ! 
 * Time Stamp Error : 파일마다 time stamp 를 체크해 float 값이 다른 경우 -> ERROR !
-* Row Nan value Error : row 에 값이 없는 경우 (Nan 인 경우 ) -> Error !
+* Row Nan value Error : row 에 값이 없는 경우 (Nan 인 경우 ) -> ERROR !
 
 # << DATA >> 
 
